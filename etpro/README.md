@@ -30,6 +30,8 @@ RCONPASSWORD         | RCON password.                 | No password (disabled).
 REFEREEPASSWORD      | Referee password.              | No password (disabled).
 SCPASSWORD           | Shoutcaster password.          | No password (disabled).
 HOSTNAME             | Server hostname.               | Docker hostname.
+MOTD1                | 1st line of MOTD.              | Docker hostname.
+MOTD2                | 2nd line of MOTD.              | "crossfire.nu".
 STARTMAP             | Map server starts on.          | "radar".
 REDIRECTURL          | URL of HTTP downloads          | http://www.gamestv.org/download/repository/et/
 MAP_PORT             | Container port (internal)      | 27960
